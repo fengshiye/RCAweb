@@ -2,7 +2,7 @@
 title: "Ribo centre - Markers"
 layout: homelay
 excerpt: "Ribo centre -- Markers"
-permalink: /markers/
+permalink: /markers_b/
 ---
 <head>
 	<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.12.1/css/jquery.dataTables.min.css">
