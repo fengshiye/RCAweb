@@ -88,7 +88,7 @@ permalink: /
 <h3>Cite us </h3>
 <div class="left-aligned" style="width: 100%;">
 Fan Bu, Xiaowei Lin, Wenjian Liao, Zhizhong Lu, Yuanlin He, Yuhang Luo, Xuemei Peng, Mengxiao Li, Yuanyin Huang, Xiaoxue Chen, Bowen Xiao, Jiuhong Jiang, Jie Deng, Jian Huang, Tianxin Lin, Zhichao Miao, Lin Huang <br>
-<strong style="color:#005826;font-weight: bold">Ribocentre-switch: a database of riboswitches.</strong><br>
+<strong style="color:#587B39;font-weight: bold">Ribocentre-switch: a database of riboswitches.</strong><br>
 <a href="https://pubmed.ncbi.nlm.nih.gov/37855663/" target="_blank" > Nucleic Acids Res. gkad891 (2023).https://pubmed.ncbi.nlm.nih.gov/37855663/</a>
 </div>
 <br>
