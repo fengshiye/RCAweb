@@ -506,7 +506,7 @@ function showImage0(photoName) {
   padding: 10px; /* 可选：添加内边距以增加内容与边框之间的间距 */
 }
   #buttonA, #buttonB {
-      /* font-size: 17px; /* Increase font size */
+      font-size: 17px; /* Increase font size */
       /* padding: 15px 30px; /* Increase padding */
       margin: 5px; /*Add some margin*/
       width: 150px; /*Set button width  */
