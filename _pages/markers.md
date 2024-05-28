@@ -230,6 +230,7 @@ jQuery( document ).ready(function( $ ) {
    /* 设置固定宽度 */
   #selectBox1, #selectBox2 {
     width: 400px; /* 这里可以根据需要调整宽度 */
+    height: 38px
   }
   .active {
     background-color: #587B39; 
@@ -503,6 +504,21 @@ function showImage0(photoName) {
   border-radius: 10px; /* 设置边框圆角的半径，可以根据需要进行调整 */
   padding: 10px; /* 可选：添加内边距以增加内容与边框之间的间距 */
 }
+  #buttonA, #buttonB {
+      /* font-size: 17px; /* Increase font size */
+      /* padding: 15px 30px; /* Increase padding */
+       margin: 10px; /*Add some margin */
+      /* width: 150px; Set button width */
+      height: 38px; /* Set button height */
+      /* cursor: pointer;
+      border: none;
+      background-color: #587B39; /* Change background color */
+      /* color: white; Change text color */
+      /* border-radius: 5px; Add border radius  */
+    }
+    /* #buttonA:hover, #buttonB:hover {
+      background-color: #587B39; Change background color on hover */
+    /* } */
 </style>
 <style>
     .photo-card {

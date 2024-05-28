@@ -141,6 +141,7 @@ ORGANOID
   /* 设置固定宽度 */
   #selectBox1 {
     width: 400px; /* 这里可以根据需要调整宽度 */
+    height: 38px
   }
   .image-container {
     max-width: 100%;

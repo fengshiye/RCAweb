@@ -1,7 +1,7 @@
 ---
-title: "GZNL-RDC - Home"
+title: "Resp Cell Atlas - Home"
 layout: homelay
-excerpt: "GZNL - Respiratory Data Centre: Facilitating Respiratory Disease Research with big data"
+excerpt: "Resp Cell Atlas - Respiratory Data Centre: Facilitating Respiratory Disease Research with big data"
 sitemap: true
 permalink: /
 ---
@@ -20,14 +20,14 @@ permalink: /
 <div class="row" style="display: flex; justify-content: space-between;"> <!-- 两端对齐-->
 <div class="col-lg-3 text-center custom-column">
 <div class="img-circle card photo-card card-clickable" onclick="handleClick(this)">
-<a href="#" onclick="showImage0('{{ site.url }}{{ site.baseurl }}/images/homePage/Adult.png'); return false">
+<a href="#" onclick="showImage0('{{ site.url }}{{ site.baseurl }}/images/homePage/umapnose.png'); return false">
 <img src="{{ site.url }}{{ site.baseurl }}/images/homePage/nose-pharynx.png" class="rounded-circle" />
 </a>
 </div>
 <div>
 <p class="text-center" style="margin-top: 16px;">
 <b style="font-size: 24px;">
-<a href="#" onclick="showImage0('{{ site.url }}{{ site.baseurl }}/images/homePage/Adult.png'); return false">Nose and pharynx</a>
+<a href="#" onclick="showImage0('{{ site.url }}{{ site.baseurl }}/images/homePage/umapnose.png'); return false">Nose and pharynx</a>
 </b>
 </p>
 </div>
@@ -36,14 +36,14 @@ permalink: /
 
 <div class="col-lg-3 text-center custom-column">
 <div class="img-circle card photo-card card-clickable" onclick="handleClick(this)">
-<a href="#" onclick="showImage0('{{ site.url }}{{ site.baseurl }}/images/homePage/Fetal.png'); return false">
+<a href="#" onclick="showImage0('{{ site.url }}{{ site.baseurl }}/images/homePage/umapairway.png'); return false">
 <img src="{{ site.url }}{{ site.baseurl }}/images/homePage/airway.png" class="rounded-circle" />
 </a>
 </div>
 <div>
 <p class="text-center" style="margin-top: 16px;">
 <b style="font-size: 24px;">
-<a href="#" onclick="showImage0('{{ site.url }}{{ site.baseurl }}/images/homePage/Fetal.png'); return false">Airway</a>
+<a href="#" onclick="showImage0('{{ site.url }}{{ site.baseurl }}/images/homePage/umapairway.png'); return false">Airway</a>
 </b>
 </p>
 </div>
@@ -52,14 +52,14 @@ permalink: /
 
 <div class="col-lg-3 text-center custom-column">
 <div class="img-circle card photo-card card-clickable" onclick="handleClick(this)">
-<a href="#" onclick="showImage0('{{ site.url }}{{ site.baseurl }}/images/homePage/Tumour.png'); return false">
+<a href="#" onclick="showImage0('{{ site.url }}{{ site.baseurl }}/images/homePage/umaplung.png'); return false">
 <img src="{{ site.url }}{{ site.baseurl }}/images/homePage/lung1.png" class="rounded-circle" />
 </a>
 </div>
 <div>
 <p class="text-center" style="margin-top: 16px;">
 <b style="font-size: 24px;">
-<a href="#" onclick="showImage0('{{ site.url }}{{ site.baseurl }}/images/homePage/Tumour.png'); return false">Lung</a>
+<a href="#" onclick="showImage0('{{ site.url }}{{ site.baseurl }}/images/homePage/umaplung.png'); return false">Lung</a>
 </b>
 </p>
 </div>
@@ -76,7 +76,7 @@ permalink: /
 <div class="container">
 <div class="row" >
 <div class="image-container">
-<img id="photo" src="{{ site.url }}{{ site.baseurl }}/images/homePage/Adult.png" alt="Default Photo" style="max-height: 450px;">
+<img id="photo" src="{{ site.url }}{{ site.baseurl }}/images/homePage/umapnose.png" alt="Default Photo" style="max-height: 450px;">
 </div>
 </div>
 </div>
@@ -87,9 +87,9 @@ permalink: /
 
 <h3>Cite us </h3>
 <div class="left-aligned" style="width: 100%;">
-Fan Bu, Xiaowei Lin, Wenjian Liao, Zhizhong Lu, Yuanlin He, Yuhang Luo, Xuemei Peng, Mengxiao Li, Yuanyin Huang, Xiaoxue Chen, Bowen Xiao, Jiuhong Jiang, Jie Deng, Jian Huang, Tianxin Lin, Zhichao Miao, Lin Huang <br>
-<strong style="color:#587B39;font-weight: bold">Ribocentre-switch: a database of riboswitches.</strong><br>
-<a href="https://pubmed.ncbi.nlm.nih.gov/37855663/" target="_blank" > Nucleic Acids Res. gkad891 (2023).https://pubmed.ncbi.nlm.nih.gov/37855663/</a>
+Liangfeng Huang, Shuo Feng, Ziliang Huang, Yin Huang, Ke Fang, Ying Ao, Zhichao Miao <br>
+<strong style="color:#587B39;font-weight: bold">Resp Cell Atlas: An atlas of respiratory system cells.</strong><br>
+<a> Unpublished</a>
 </div>
 
 <script>
