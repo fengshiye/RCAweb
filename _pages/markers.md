@@ -508,8 +508,8 @@ function showImage0(photoName) {
   #buttonA, #buttonB {
       /* font-size: 17px; /* Increase font size */
       /* padding: 15px 30px; /* Increase padding */
-       margin: 10px; /*Add some margin */
-      /* width: 150px; Set button width */
+      margin: 5px; /*Add some margin*/
+      width: 150px; /*Set button width  */
       height: 38px; /* Set button height */
       /* cursor: pointer;
       border: none;
