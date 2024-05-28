@@ -98,7 +98,7 @@ Eg. GSE/SCP/E-MTAB-/PRJNA/EGAS/phs/PRJEB/SDY/SRP.</td>
 <h1 ref="">Portrait</h1>
 <p class="header_box" >Portrait</p>
 The interactive viewer shows the adult human respiratory system and includes all the major regions from the data used in Respiratory Cell Atlas.
-<img src = "{{ site.url }}{{ site.baseurl }}/images/helpPage/portrait.png" style='height: 800px; width: auto; margin: 0;'>
+<img src = "{{ site.url }}{{ site.baseurl }}/images/helpPage/help_portrait1.png" style='height: 800px; width: auto; margin: 0;'>
 <table class="table table-hover table-bordered">
   <thead>
     <tr>
