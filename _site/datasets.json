@@ -2,6 +2,6 @@
     {
         "id": "scVI",
         "name": "atlas",
-        "url":"https://media.githubusercontent.com/media/Tomcxf/Cirro/main/build/scVI/minicore_downsample10W.jsonl"
+        "url":"https://data.braincellatlas.org/mock/2024-5-27-lung_minicore_all-anno.jsonl"
     }
 ]
