@@ -604,10 +604,10 @@ function displaySelectedImage() {
     var imageName;
     if (selectedButton === 'A') {
       imageName = selectedImageId + '_' + encodeURIComponent(selectedOptions[0]) + '_' + encodeURIComponent(selectedOptions[1]) + '.png';
-    var imagePath = 'https://data.braincellatlas.org/volcano/VolcanoByRegion/' + imageName;
+    var imagePath = '/Users/fsh/Documents/web/RCA_Web-main/RCA_Volcano/VolcanoByRegion/' + imageName;
     } else if (selectedButton === 'B') {
       imageName = selectedImageId + '_' + encodeURIComponent(selectedOptions[1]) + '_' + encodeURIComponent(selectedOptions[0]) + '.png';
-    var imagePath = 'https://data.braincellatlas.org/volcano/VolcanoByCellType/' + imageName;
+    var imagePath = '/Users/fsh/Documents/web/RCA_Web-main/RCA_Volcano/VolcanoByCellType/' + imageName;
     }
     /* var imagePath = 'http://localhost:4000/images/markerPage/volcano/' + imageName; */
     // 在此处显示照片，例如：

@@ -315,10 +315,10 @@ function displaySelectedImage() {
     var imageName;
     if (selectedButton === 'A') {
       imageName = selectedImageId + '_' + encodeURIComponent(selectedOptions[0]) + '_' + encodeURIComponent(selectedOptions[1]) + '.png';
-    var imagePath = 'https://github.com/fengshiye/fengshiye.github.io/tree/main/RCA_Volcano/VolcanoByRegion/' + imageName;
+    var imagePath = '/Users/fsh/Documents/web/RCA_Web-main/RCA_Volcano/VolcanoByRegion/' + imageName;
     } else if (selectedButton === 'B') {
       imageName = selectedImageId + '_' + encodeURIComponent(selectedOptions[1]) + '_' + encodeURIComponent(selectedOptions[0]) + '.png';
-    var imagePath = 'https://github.com/fengshiye/fengshiye.github.io/tree/main/RCA_Volcano/VolcanoByCellType/' + imageName;
+    var imagePath = '/Users/fsh/Documents/web/RCA_Web-main/RCA_Volcano/VolcanoByCellType/' + imageName;
     }
     /* var imagePath = '{{ site.url }}{{ site.baseurl }}/images/markerPage/volcano/' + imageName; */
     // 在此处显示照片，例如：
